@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/vedant-ghuge-a4b679293/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
   </a>
-  <a href="ghugevedant93@gmail.com" target="_blank">
+  <a href="mailto:ghugevedant93@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/1152540231619334165" target="_blank">
